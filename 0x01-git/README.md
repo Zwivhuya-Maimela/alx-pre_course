@@ -1,1 +1,1 @@
-Second readme
+my first readme: I love Sekani.
